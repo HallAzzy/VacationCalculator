@@ -1,0 +1,36 @@
+# Build directories
+target/
+out/
+build/
+
+# STS specific files
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ IDEA
+.idea/
+
+# NetBeans specific files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code specific files
+.vscode/
+
+# Maven Wrapper file
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
